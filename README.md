@@ -237,7 +237,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
-Hesham - Data Engineering and Analytics Portfolio Project
+Hesham Rashid
 
 - Portfolio: https://www.heshamrashid.org/
 - LinkedIn: https://www.linkedin.com/in/hesham-rashid/ 
