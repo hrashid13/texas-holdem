@@ -2,6 +2,8 @@
 
 A real-time multiplayer Texas Hold'em poker game built with React, Node.js, and Socket.io. Play with friends online with automatic CPU bot opponents to fill empty seats.
 
+[![Live Demo](https://img.shields.io/badge/Demo-texas-holdem-green)](https://pokertexasholdem.up.railway.app/)
+
 ## Features
 
 - **Real-time Multiplayer** - Play with 2-6 players online
