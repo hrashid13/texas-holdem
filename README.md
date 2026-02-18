@@ -2,7 +2,7 @@
 
 A real-time multiplayer Texas Hold'em poker game built with React, Node.js, and Socket.io. Play with friends online with automatic CPU bot opponents to fill empty seats.
 
-[![Live Demo](https://img.shields.io/badge/Demo-texas-holdem-green)](https://pokertexasholdem.up.railway.app/)
+[![Live Demo](https://img.shields.io/badge/Demo-Texas_Holdem-green)](https://pokertexasholdem.up.railway.app/)
 
 ## Features
 
@@ -234,6 +234,16 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## Author
+
+Hesham - Data Engineering and Analytics Portfolio Project
+
+- Portfolio: https://www.heshamrashid.org/
+- LinkedIn: https://www.linkedin.com/in/hesham-rashid/ 
+- Email: h.f.rashid@gmail.com
+
+Master's in AI and Business Analytics - University of South Florida
 
 ## License
 
